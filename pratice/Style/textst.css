@@ -1,0 +1,38 @@
+.video-titel{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    width: 310px;
+    margin-bottom: 5px;
+}
+p{
+    color: rgb(65, 64, 64);
+    margin-top: 0px;
+    font-family: Arial;
+}
+.views{
+     font-size: 14px;
+     margin-bottom: 20px;
+}
+.author{
+    font-size: 14px;
+}
+.thumb{
+    width: 280px;
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 100px;
+}
+.apple{
+    margin-bottom: 50px;
+    background-color: rgb(251, 67, 22);
+    color: white;
+    text-align: center;
+    padding: 15px ;
+}
+span{
+    cursor: pointer;
+}
+span:hover{
+    text-decoration: underline;
+}
